@@ -8,6 +8,8 @@ Resources and references for group work from Framer JS Seattle meet up number fi
 
 [Framer Docs](http://framerjs.com/docs/)
 
+[Framer Video Tutorials](https://www.youtube.com/channel/UCW5gUZ7lKGrAbLOkHv2xfbw) - Great, easy to follow set of videos produced by the Framer team.
+
 
 ### iPhone Apps for Previewing on Device
 
@@ -19,3 +21,10 @@ Resources and references for group work from Framer JS Seattle meet up number fi
 ### EBook
 
 [CoffeeScript for FramerJS](http://coffeescript-for-framerjs.com/) – Independent ebook. I think it's pretty easy to follow – even without much experience in CoffeeScript – and has five UI prototyping examples that progressively get more complex.
+
+
+### Project Files
+
+example.framer shows a super-simple example of layers, states, and events.
+
+instaproto.framer and instaproto.sketch is an example of importing a Sketch file and creating a simple state-based animation.

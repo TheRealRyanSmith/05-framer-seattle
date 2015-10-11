@@ -23,7 +23,7 @@ Resources and references for group work from Framer JS Seattle meet up number fi
 [CoffeeScript for FramerJS](http://coffeescript-for-framerjs.com/) – Independent ebook. I think it's pretty easy to follow – even without much experience in CoffeeScript – and has five UI prototyping examples that progressively get more complex.
 
 
-### Project Files
+### Project Files in This Repo
 
 example.framer shows a super-simple example of layers, states, and events.
 
